@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springbackend/springbackend.iml" filepath="$PROJECT_DIR$/springbackend/springbackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbackend.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springbackend.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbackend.test.iml" filepath="$PROJECT_DIR$/.idea/modules/springbackend.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vuefrontend/vuefrontend.iml" filepath="$PROJECT_DIR$/vuefrontend/vuefrontend.iml" />
+    </modules>
+  </component>
+</project>
